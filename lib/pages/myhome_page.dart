@@ -6,9 +6,9 @@ class MyHomePage extends StatelessWidget {
   MyHomePage({super.key});
 
   final List<UserModel> users = [
-    UserModel(name: 'Numar', age: 20),
+    UserModel(name: 'Wilfer', age: 20),
     UserModel(name: 'Andres', age: 16),
-    UserModel(name: 'Pedro', age: 35),
+    UserModel(name: 'Sandra', age: 35),
   ];
 
   @override
